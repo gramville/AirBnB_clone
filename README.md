@@ -11,4 +11,5 @@ A command interpreter is **the part of a computer operating system that understa
 ADD HERE
 
 ## **contributers to this repo**
-
+Buruk Girma
+Tsion Girma
